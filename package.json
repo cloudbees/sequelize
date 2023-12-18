@@ -200,9 +200,6 @@
       ]
     }
   },
-  "lint-staged": {
-    "*!(d).[tj]s": "eslint"
-  },
   "release": {
     "plugins": [
       "@semantic-release/commit-analyzer",
